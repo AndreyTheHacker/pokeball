@@ -1,2 +1,2 @@
 # pokeball
-Pokeball - simplest archiver ever
+Pokeball - simplest archiver ever!
